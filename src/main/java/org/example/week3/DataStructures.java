@@ -19,7 +19,6 @@ class TaskItem {
         taskDescription=b;
         taskStatus=c;
     }
-
     public int getTaskId() {
         return taskId;
     }
