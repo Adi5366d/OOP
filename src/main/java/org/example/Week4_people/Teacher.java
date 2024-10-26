@@ -2,8 +2,8 @@ package org.example.Week4_people;
 
 public class Teacher extends Person {
     private int salary;
-    public Teacher(String name, String adress, int salary){
-        super(name, adress);
+    public Teacher(String name, String adress, int salary, int age, String country){
+        super(name, adress, age, country);
         this.salary=salary;
 
         }
