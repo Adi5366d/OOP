@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1831ea-f7ec-4cd6-9231-842136bc867a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Repairable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week5/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Week4_people/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Week4_rest/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Week4_rest/Second.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Adi5366d"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adi5366d&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Adi5366d/OOP-labs.git",
-    "accountId": "d5757873-8cc4-4536-92fa-fda8384556ef"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Adi5366d/OOP-labs.git&quot;,
+    &quot;accountId&quot;: &quot;d5757873-8cc4-4536-92fa-fda8384556ef&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -47,31 +53,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Second.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task10.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Gazda/IdeaProjects/OOP-labs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Gazda/IdeaProjects/OOP-labs/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gazda/IdeaProjects/OOP-labs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Gazda/IdeaProjects/OOP-labs/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +100,10 @@
       <option name="presentableId" value="Default" />
       <updated>1729694929908</updated>
       <workItem from="1729694930876" duration="2000" />
-      <workItem from="1729712529127" duration="16722000" />
+      <workItem from="1729712529127" duration="17647000" />
+      <workItem from="1729966136666" duration="30320000" />
+      <workItem from="1730294042591" duration="1411000" />
+      <workItem from="1730660979599" duration="1681000" />
     </task>
     <servers />
   </component>
