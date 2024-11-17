@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1831ea-f7ec-4cd6-9231-842136bc867a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task7_nightSky/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task7_nightSky/NightSky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task_LibraryInfoSystem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task_LibraryInfoSystem/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task_LibraryInfoSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/Task_LibraryInfoSystem/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_generics/tasks_generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task2/PromissoryNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task3/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Week6/tasks_hashmap/task3/TextUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice5/DbConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Week7/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Week7/Tasks/ECommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Week7/Tasks/LibrarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Week7/Tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Practice/Week7/Tasks/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Practice/Practice5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +54,21 @@
   "keyToString": {
     "Application.Animal.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainApplication.executor": "Run",
+    "Application.MainApplication2.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Practice1.executor": "Run",
     "Application.Practice2.executor": "Run",
     "Application.Practice3.executor": "Run",
     "Application.Practice4.executor": "Run",
+    "Application.Practice5.executor": "Run",
     "Application.Second.executor": "Run",
+    "Application.System.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10.executor": "Run",
     "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -90,14 +86,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,7 +99,10 @@
       <workItem from="1729966136666" duration="30320000" />
       <workItem from="1730294042591" duration="1411000" />
       <workItem from="1730660979599" duration="1904000" />
-      <workItem from="1730903740085" duration="22034000" />
+      <workItem from="1730903740085" duration="26503000" />
+      <workItem from="1731441786766" duration="1000" />
+      <workItem from="1731511190776" duration="11000" />
+      <workItem from="1731771280608" duration="1000" />
     </task>
     <servers />
   </component>
