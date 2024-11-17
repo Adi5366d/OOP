@@ -1,4 +1,4 @@
-package ba.edu.ibu.week7.labs;
+package org.example.Week7.Tasks;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.Practice.Week7.Tasks;
+package org.example.Week7.Tasks;
 
 import java.util.ArrayList;
 import java.util.List;
